@@ -1,5 +1,4 @@
-Manage People REST service
-Using Swagger for REST API creation and documentation
+Manage People REST service - Using Swagger for REST API creation and documentation
 ===
 Download maven
 - https://maven.apache.org/download.cgi

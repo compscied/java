@@ -18,3 +18,6 @@ Run using standalone JAR
 
 Invoke People REST service  
 - curl http://localhost:8080/api/people
+
+Expected output:
+[{"email":"a@b.com","firstName":"John","lastName":"Smith"}]

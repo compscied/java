@@ -1,5 +1,10 @@
 Using Swagger for REST API documentation
 ==============
+Download maven
+- https://maven.apache.org/download.cgi
+
+Install maven
+- https://maven.apache.org/install.html
 
 Build the project using
 - mvn package
@@ -10,7 +15,7 @@ Run using Spring Boot Maven plugin
 
 OR run using standalone JAR
 
-- java -jar target/jax-rs-2.0-cxf-spring-boot-0.0.1-SNAPSHOT.jar         
+- java -jar target/jax-rs-cxf-spring-boot-0.0.1-SNAPSHOT.jar         
  
 People REST service will be available at
 

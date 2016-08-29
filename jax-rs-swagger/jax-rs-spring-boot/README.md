@@ -10,7 +10,7 @@ Install maven
 Build the project
 - mvn package
 
-Run using Spring Boot Maven plugin with embedded servlet Jetty engine
+Run using Spring Boot Maven plugin with embedded tomcat
 - mvn spring-boot:run
 
 Run using standalone JAR

@@ -12,7 +12,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<org.apache.cxf.version>3.1.5</org.apache.cxf.version>
-		<org.eclipse.jetty.version>9.3.8.v20160314</org.eclipse.jetty.version>
+		<org.eclipse.jetty.version>9.4.33.v20201020</org.eclipse.jetty.version>
 	</properties>
 
 	<dependencies>
